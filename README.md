@@ -1,7 +1,7 @@
 # Triangle-Test-Project
 University of Minnesota Project
 
-This project contains a Java program (`Demo.java`) that checks whether three given sides form a valid triangle using simple logic.
+This project includes a basic JUnit test for the `Demo.java` class, which checks whether three sides can form a triangle. It’s part of my software testing learning journey and shows my ability to write unit tests using JUnit.
 
 ## Objective
 
