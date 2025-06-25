@@ -1,9 +1,20 @@
 # Triangle-Test-Project
 University of Minnesota Project
-# Triangle Validation Unit Test (JUnit)
 
-This project demonstrates unit testing using JUnit in Java. The goal is to test the `isTriangle` method from `Demo.java`, ensuring it correctly validates triangle side lengths.
+This project contains a Java program (`Demo.java`) that checks whether three given sides form a valid triangle using simple logic.
 
-- Tests boundary conditions
-- Includes positive and negative test cases
-- Prepared for mutation testing and expansion
+## Objective
+
+Create effective unit tests using JUnit in `DemoTest.java` to validate the logic in `Demo.java`, especially around edge cases and boundary conditions.
+
+## Files
+- `Demo.java`: Main Java file containing triangle-checking logic.
+- `DemoTest.java`: Test file (in progress) using JUnit framework.
+
+## Technologies
+- Java 8+
+- JUnit 4/5 (for testing)
+
+## Coming Soon
+- Test cases for valid and invalid triangles
+- Mutation analysis walkthrough
